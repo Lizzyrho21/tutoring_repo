@@ -5,7 +5,7 @@ Tutoring repo for zoom
 
 - For today, (01/14/2022), I have two exercises below for you to complete.
 
-- I have already wired up the JS file to the HTML file, so you can write your code and view it on the terminal in your browser (Open up HTML file, right-click on browser, and open developer tools. You will see a tab that says 'console'.)
+- I have already wired up the JS file to the HTML file, so you can write your code and view it on the terminal in your browser (Open up HTML file, right-click on browser, and open developer tools. You will see a tab that says 'console'. PSA:: THIS 'CONSOLE.LOG' TECHNIQUE IS HOW YOU WILL BE ABLE TO CHECK YOUR WORK)
 
 - Please attempt as best as you can on these exercises and make COMMENTS in your JS file. I want to see your thought process, and it will help you become a better developer. Also, if you don't know a concept or keyword. Look it up on Google or whatever search tool you use. This is a learning process!
 
